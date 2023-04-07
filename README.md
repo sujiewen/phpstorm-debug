@@ -1,13 +1,19 @@
 # phpstorm-debug
 
 
+<br>
 PhpStorm 2022.3.3
+<br>
 macOS 11.6
+<br>
 PHP 7.3.3
+<br>
 xdebug 3.1.6
+<br>
 本地server地址：localhost:9011
 
 
+<br>
 vim /usr/local/etc/php/7.3/php.ini
 
 [xdebug]
