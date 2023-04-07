@@ -13,6 +13,9 @@ xdebug 3.1.6
 本地server地址：localhost:9011
 
 
+
+<br>
+<br>
 <br>
 vim /usr/local/etc/php/7.3/php.ini
 
