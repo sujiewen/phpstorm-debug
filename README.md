@@ -28,6 +28,8 @@ php -i
 
 
 1，Download xdebug-3.1.6.tgz (https://xdebug.org/files/xdebug-3.1.6.tgz)
+  
+  
 2，Install the pre-requisites for compiling PHP extensions.
   On your Mac, we only support installations with 'homebrew', and brew install php && brew install autoconf should pull in the right packages.
 3，Unpack the downloaded file with tar -xvzf xdebug-3.1.6.tgz
