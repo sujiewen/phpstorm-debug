@@ -11,7 +11,7 @@ xdebug 3.1.6
 vim /usr/local/etc/php/7.3/php.ini
 
 [xdebug]
-\<br/>
+<br>
 ;zend_extension = /usr/local/lib/php/pecl/20180731/xdebug.so
 enable = On
 xdebug.remote_handler = "dbgp"
