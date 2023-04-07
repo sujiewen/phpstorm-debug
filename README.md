@@ -93,5 +93,5 @@ Support Xdebug on Patreon, GitHub, or as a business: https://xdebug.org/support
              <br>
 
 
-
+https://github.com/sujiewen/phpstorm-debug/wiki
 
