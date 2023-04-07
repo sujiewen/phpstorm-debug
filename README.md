@@ -77,5 +77,20 @@ zend_extension = xdebug
 
 
 
+<br>
+验证是否安装扩展xdebug成功
+<br>
+php -i | grep -i xdebug
+<br>
+    with Xdebug v3.1.6, Copyright (c) 2002-2022, by Derick Rethans
+    <br>
+xdebug
+<br>
+Support Xdebug on Patreon, GitHub, or as a business: https://xdebug.org/support
+<br>
+             Enabled Features (through 'xdebug.mode' setting)     
+             <br>
+
+
 
 
