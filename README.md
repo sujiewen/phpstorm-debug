@@ -13,15 +13,22 @@ vim /usr/local/etc/php/7.3/php.ini
 [xdebug]
 <br>
 ;zend_extension = /usr/local/lib/php/pecl/20180731/xdebug.so
+<br>
 enable = On
+<br>
 xdebug.remote_handler = "dbgp"
+<br>
 xdebug.client_host = "localhost"
+<br>
 xdebug.client_port = 9001
+<br>
 xdebug.idekey = PHPSTROM
+<br>
 xdebug.start_with_request=yes
+<br>
 xdebug.mode=debug
 
-
+<br>
 xdebug 安装
 
 php -i 
