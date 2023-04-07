@@ -34,6 +34,11 @@ xdebug.start_with_request=yes
 <br>
 xdebug.mode=debug
 
+
+
+
+<br>
+<br>
 <br>
 xdebug 安装
 
