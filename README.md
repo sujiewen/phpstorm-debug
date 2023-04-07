@@ -76,7 +76,8 @@ zend_extension = xdebug
 
 
 
-
+<br>
+<br>
 <br>
 验证是否安装扩展xdebug成功
 <br>
